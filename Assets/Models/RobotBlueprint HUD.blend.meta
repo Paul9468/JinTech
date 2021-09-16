@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 8214723be7b33e449805d4ad4e8abc1b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Camera.001
+    100004: Robot
+    100006: Robot.001
+    100008: //RootNode
+    100010: Sun
+    100012: Gobelet
+    100014: Gobelet.001
+    100016: Gobelet.002
+    100018: Plane
+    400000: Camera
+    400002: Camera.001
+    400004: Robot
+    400006: Robot.001
+    400008: //RootNode
+    400010: Sun
+    400012: Gobelet
+    400014: Gobelet.001
+    400016: Gobelet.002
+    400018: Plane
+    2000000: Camera
+    2000002: Camera.001
+    2100000: Aluminum_-_Satin
+    2100002: Plastic_-_Glossy_(Blue)
+    2100004: Coating_-_Black_Oxide
+    2100006: Paint_-_Metallic_(Black)
+    2100008: Plastic_-_Textured_-_Regular
+    2100010: Plastic_-_Glossy_(Black)
+    2100012: Aluminum_-_Anodized_Glossy_(Grey)
+    2100014: Opaque(202,209,238)
+    2100016: Aluminum_-_Polished
+    2100018: Plastic_-_Glossy_(Yellow)
+    2100020: Plastic_-_Textured_-_Regular_1
+    2100022: Polycarbonate_(Clear)
+    2100024: Paint_-_Enamel_Glossy_(Yellow)
+    2100026: Plastic_-_Translucent_Glossy_(Blue)
+    2100028: Plastic_-_Translucent_Matte_(Yellow)
+    2100030: Acrylic_(Clear)
+    2100032: Plastic_-_Matte_(Yellow)
+    2100034: Plastic_-_Matte_(Black)
+    2100036: Bronze_-_Polished
+    2100038: Plastic_-_Translucent_Glossy_(White)
+    2100040: Aluminum_-_Satin_1
+    2100042: Aluminum_-_Bead_Blasted
+    2100044: Plastic_-_Glossy_(Yellow)_1
+    2100046: Steel_-_Satin
+    2100048: Opaque(255,255,255)
+    2100050: Opaque(176,176,176)
+    2100052: Opaque(80,80,80)
+    2100054: Opaque(0,153,255)
+    2100056: Opaque(192,192,192)
+    2100058: Paint_-_Metallic_(Blue)
+    2100060: Acrylic_(Clear)_1
+    2100062: Plastic_-_Matte_(Red)
+    2100064: Powder_Coat_(Blue)
+    2100066: Opaque(240,172,30)
+    2100068: Opaque(54,122,254)
+    2100070: Opaque(64,64,64)
+    2100072: Opaque(255,255,0)
+    2100074: Opaque(255,0,0)
+    2100076: Opaque(0,192,0)
+    2100078: Powder_Coat_(Black)
+    2100080: Plastic_-_Matte_(Gray)
+    2100082: Plastic_-_Glossy_(Red)
+    2100084: Fabric_(Grey)
+    2100086: Acrylic_(Clear)_2
+    2100088: Acrylic_(Clear)_3
+    2100090: No Name
+    2100092: Gobelet
+    2300000: Robot
+    2300002: Robot.001
+    2300004: Gobelet
+    2300006: Gobelet.001
+    2300008: Gobelet.002
+    2300010: Plane
+    3300000: Robot
+    3300002: Robot.001
+    3300004: Gobelet
+    3300006: Gobelet.001
+    3300008: Gobelet.002
+    3300010: Plane
+    4300000: Robot
+    4300002: Robot.001
+    4300004: Plane
+    4300006: Gobelet
+    4300008: Gobelet.001
+    4300010: Gobelet.002
+    10800000: Sun
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

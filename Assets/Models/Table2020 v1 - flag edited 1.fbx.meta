@@ -1,0 +1,878 @@
+fileFormatVersion: 2
+guid: 968a0232407922b4796e330d060c0527
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArucoSquare
+    100002: ArucoSquare:1
+    100004: BaseTable v1
+    100006: BaseTable v1:1
+    100008: Body1
+    100010: Body1.001
+    100012: Body1.002
+    100014: Body1.003
+    100016: Body1.004
+    100018: Body1.005
+    100020: Body1.006
+    100022: Body1.007
+    100024: Body1.008
+    100026: Body1.009
+    100028: Body1.010
+    100030: Body1.011
+    100032: Body1.012
+    100034: Body1.013
+    100036: Body1.014
+    100038: Body1.015
+    100040: Body1.016
+    100042: Body1.017
+    100044: Body1.018
+    100046: Body1.019
+    100048: Body1.020
+    100050: Body1.021
+    100052: Body1.022
+    100054: Body1.023
+    100056: Body1.024
+    100058: Body1.025
+    100060: Body1.026
+    100062: Body1.027
+    100064: Body1.028
+    100066: Body1.029
+    100068: Body1.030
+    100070: Body1.031
+    100072: Body1.032
+    100074: Body1.033
+    100076: Body1.034
+    100078: Body1.035
+    100080: Body1.036
+    100082: Body1.037
+    100084: Body1.038
+    100086: Body1.039
+    100088: Body1.040
+    100090: Body1.041
+    100092: Body1.042
+    100094: Body1.043
+    100096: Body1.044
+    100098: Body1.045
+    100100: Body1.046
+    100102: Body1.047
+    100104: Body1.048
+    100106: Body1.049
+    100108: Body1.050
+    100110: Body1.051
+    100112: Body1.052
+    100114: Body1.053
+    100116: Body1.054
+    100118: Body1.055
+    100120: Body1.056
+    100122: Body1.057
+    100124: Body1.058
+    100126: Body1.059
+    100128: Body1.060
+    100130: Body1.061
+    100132: Body1.062
+    100134: Body1.063
+    100136: Body1.064
+    100138: Body1.065
+    100140: Body1.066
+    100142: Body1.067
+    100144: Body1.068
+    100146: Body1.069
+    100148: Body1.070
+    100150: Body1.071
+    100152: Body1.072
+    100154: Body1.073
+    100156: Body1.074
+    100158: Body1.075
+    100160: Body2
+    100162: Body2.001
+    100164: Body2.002
+    100166: Body2.003
+    100168: Body3
+    100170: Body3.001
+    100172: Body3.002
+    100174: Body3.003
+    100176: Body3.004
+    100178: Body3.005
+    100180: BorderLong v1
+    100182: BorderLong v1.001
+    100184: BorderLong v1:1
+    100186: BorderLong v1:2
+    100188: BorderSmall v1
+    100190: BorderSmall v1.001
+    100192: BorderSmall v1:1
+    100194: BorderSmall v1:2
+    100196: Cale
+    100198: Cale.001
+    100200: Cale.002
+    100202: Cale.003
+    100204: Cale:1
+    100206: Cale:1.001
+    100208: Cale:1.002
+    100210: Cale:1.003
+    100212: Component2
+    100214: Component2.001
+    100216: Component2.002
+    100218: Component2.003
+    100220: Component2:1
+    100222: Component2:1.001
+    100224: Component2:1.002
+    100226: Component2:1.003
+    100228: Component3
+    100230: Component3.001
+    100232: Component3.002
+    100234: Component3.003
+    100236: Component3:1
+    100238: Component3:1.001
+    100240: Component3:1.002
+    100242: Component3:1.003
+    100244: COUVERCLE BOTTOM
+    100246: COUVERCLE BOTTOM:1
+    100248: COUVERCLE FRONT
+    100250: COUVERCLE FRONT:1
+    100252: Edge Beacon Left v1
+    100254: Edge Beacon Left v1.001
+    100256: Edge Beacon Left v1.002
+    100258: Edge Beacon Left v1:1
+    100260: Edge Beacon Left v1:2
+    100262: Edge Beacon Left v1:3
+    100264: Edge Beacon Right v1
+    100266: Edge Beacon Right v1.001
+    100268: Edge Beacon Right v1.002
+    100270: Edge Beacon Right v1:1
+    100272: Edge Beacon Right v1:2
+    100274: Edge Beacon Right v1:3
+    100276: EdgeBeacons_Base v1
+    100278: EdgeBeacons_Base v1.001
+    100280: EdgeBeacons_Base v1.002
+    100282: EdgeBeacons_Base v1.003
+    100284: EdgeBeacons_Base v1.004
+    100286: EdgeBeacons_Base v1.005
+    100288: EdgeBeacons_Base v1:1
+    100290: EdgeBeacons_Base v1:1.001
+    100292: EdgeBeacons_Base v1:1.002
+    100294: EdgeBeacons_Base v1:1.003
+    100296: EdgeBeacons_Base v1:1.004
+    100298: EdgeBeacons_Base v1:1.005
+    100300: EdgeBeacons_LargeBorder v1
+    100302: EdgeBeacons_LargeBorder v1.001
+    100304: EdgeBeacons_LargeBorder v1.002
+    100306: EdgeBeacons_LargeBorder v1.003
+    100308: EdgeBeacons_LargeBorder v1.004
+    100310: EdgeBeacons_LargeBorder v1.005
+    100312: EdgeBeacons_LargeBorder v1:1
+    100314: EdgeBeacons_LargeBorder v1:1.001
+    100316: EdgeBeacons_LargeBorder v1:1.002
+    100318: EdgeBeacons_LargeBorder v1:1.003
+    100320: EdgeBeacons_LargeBorder v1:1.004
+    100322: EdgeBeacons_LargeBorder v1:1.005
+    100324: EdgeBeacons_SmallBorder v1
+    100326: EdgeBeacons_SmallBorder v1.001
+    100328: EdgeBeacons_SmallBorder v1.002
+    100330: EdgeBeacons_SmallBorder v1.003
+    100332: EdgeBeacons_SmallBorder v1.004
+    100334: EdgeBeacons_SmallBorder v1.005
+    100336: EdgeBeacons_SmallBorder v1:1
+    100338: EdgeBeacons_SmallBorder v1:1.001
+    100340: EdgeBeacons_SmallBorder v1:1.002
+    100342: EdgeBeacons_SmallBorder v1:1.003
+    100344: EdgeBeacons_SmallBorder v1:1.004
+    100346: EdgeBeacons_SmallBorder v1:1.005
+    100348: ENTRETOISE
+    100350: ENTRETOISE:1
+    100352: FIXATION
+    100354: FIXATION:1
+    100356: FLECHE
+    100358: FLECHE:1
+    100360: Ground v1
+    100362: Ground v1:1
+    100364: INTERIEUR
+    100366: INTERIEUR:1
+    100368: manchonBleu v1
+    100370: manchonBleu v1.001
+    100372: manchonBleu v1:1
+    100374: manchonBleu v1:2
+    100376: manchonJaune v1
+    100378: manchonJaune v1.001
+    100380: manchonJaune v1:1
+    100382: manchonJaune v1:2
+    100384: MiddleBeaconTop v1
+    100386: MiddleBeaconTop v1:1
+    100388: MiddleBeaconVertSupport1 v1
+    100390: MiddleBeaconVertSupport1 v1:1
+    100392: MiddleBeaconVertSupport2 v1
+    100394: MiddleBeaconVertSupport2 v1:1
+    100396: PaintExperience v1
+    100398: PaintExperience v1.001
+    100400: PaintExperience v1:1
+    100402: PaintExperience v1:2
+    100404: Planche Droite
+    100406: Planche Droite.001
+    100408: Planche Droite.002
+    100410: Planche Droite.003
+    100412: Planche Droite:1
+    100414: Planche Droite:1.001
+    100416: Planche Droite:1.002
+    100418: Planche Droite:1.003
+    100420: Planche Fond
+    100422: Planche Fond.001
+    100424: Planche Fond.002
+    100426: Planche Fond.003
+    100428: Planche Fond:1
+    100430: Planche Fond:1.001
+    100432: Planche Fond:1.002
+    100434: Planche Fond:1.003
+    100436: Planche Gauche
+    100438: Planche Gauche.001
+    100440: Planche Gauche.002
+    100442: Planche Gauche.003
+    100444: Planche Gauche:1
+    100446: Planche Gauche:1.001
+    100448: Planche Gauche:1.002
+    100450: Planche Gauche:1.003
+    100452: Planche Socle
+    100454: Planche Socle.001
+    100456: Planche Socle.002
+    100458: Planche Socle.003
+    100460: Planche Socle:1
+    100462: Planche Socle:1.001
+    100464: Planche Socle:1.002
+    100466: Planche Socle:1.003
+    100468: POIDS
+    100470: POIDS:1
+    100472: Rocher v1
+    100474: Rocher v1.001
+    100476: Rocher v1.002
+    100478: Rocher v1.003
+    100480: Rocher v1:1
+    100482: Rocher v1:2
+    100484: Rocher v1:3
+    100486: Rocher v1:4
+    100488: RONDELLES
+    100490: RONDELLES:1
+    100492: ROUE_MINI_V3_ASSEMBLAGE v1
+    100494: ROUE_MINI_V3_ASSEMBLAGE v1:1
+    100496: ROUE_V3 v1
+    100498: ROUE_V3 v1:1
+    100500: STICKER
+    100502: STICKER:1
+    100504: StickerBlue
+    100506: StickerBlue:1
+    100508: StickerYellow
+    100510: StickerYellow:1
+    100512: SUPPORT
+    100514: SUPPORT:1
+    100516: //RootNode
+    100518: Taquet
+    100520: taquet v1
+    100522: taquet v1.001
+    100524: taquet v1:1
+    100526: taquet v1:2
+    100528: Taquet.001
+    100530: Taquet.002
+    100532: Taquet.003
+    100534: Taquet:1
+    100536: Taquet:1.001
+    100538: Taquet:1.002
+    100540: Taquet:1.003
+    100542: TaquetCentre v1
+    100544: TaquetCentre v1:1
+    100546: VIS BOIS
+    100548: VIS BOIS:1
+    100550: ZoneRocheuse v1
+    100552: ZoneRocheuse v1.001
+    100554: ZoneRocheuse v1:1
+    100556: ZoneRocheuse v1:2
+    400000: ArucoSquare
+    400002: ArucoSquare:1
+    400004: BaseTable v1
+    400006: BaseTable v1:1
+    400008: Body1
+    400010: Body1.001
+    400012: Body1.002
+    400014: Body1.003
+    400016: Body1.004
+    400018: Body1.005
+    400020: Body1.006
+    400022: Body1.007
+    400024: Body1.008
+    400026: Body1.009
+    400028: Body1.010
+    400030: Body1.011
+    400032: Body1.012
+    400034: Body1.013
+    400036: Body1.014
+    400038: Body1.015
+    400040: Body1.016
+    400042: Body1.017
+    400044: Body1.018
+    400046: Body1.019
+    400048: Body1.020
+    400050: Body1.021
+    400052: Body1.022
+    400054: Body1.023
+    400056: Body1.024
+    400058: Body1.025
+    400060: Body1.026
+    400062: Body1.027
+    400064: Body1.028
+    400066: Body1.029
+    400068: Body1.030
+    400070: Body1.031
+    400072: Body1.032
+    400074: Body1.033
+    400076: Body1.034
+    400078: Body1.035
+    400080: Body1.036
+    400082: Body1.037
+    400084: Body1.038
+    400086: Body1.039
+    400088: Body1.040
+    400090: Body1.041
+    400092: Body1.042
+    400094: Body1.043
+    400096: Body1.044
+    400098: Body1.045
+    400100: Body1.046
+    400102: Body1.047
+    400104: Body1.048
+    400106: Body1.049
+    400108: Body1.050
+    400110: Body1.051
+    400112: Body1.052
+    400114: Body1.053
+    400116: Body1.054
+    400118: Body1.055
+    400120: Body1.056
+    400122: Body1.057
+    400124: Body1.058
+    400126: Body1.059
+    400128: Body1.060
+    400130: Body1.061
+    400132: Body1.062
+    400134: Body1.063
+    400136: Body1.064
+    400138: Body1.065
+    400140: Body1.066
+    400142: Body1.067
+    400144: Body1.068
+    400146: Body1.069
+    400148: Body1.070
+    400150: Body1.071
+    400152: Body1.072
+    400154: Body1.073
+    400156: Body1.074
+    400158: Body1.075
+    400160: Body2
+    400162: Body2.001
+    400164: Body2.002
+    400166: Body2.003
+    400168: Body3
+    400170: Body3.001
+    400172: Body3.002
+    400174: Body3.003
+    400176: Body3.004
+    400178: Body3.005
+    400180: BorderLong v1
+    400182: BorderLong v1.001
+    400184: BorderLong v1:1
+    400186: BorderLong v1:2
+    400188: BorderSmall v1
+    400190: BorderSmall v1.001
+    400192: BorderSmall v1:1
+    400194: BorderSmall v1:2
+    400196: Cale
+    400198: Cale.001
+    400200: Cale.002
+    400202: Cale.003
+    400204: Cale:1
+    400206: Cale:1.001
+    400208: Cale:1.002
+    400210: Cale:1.003
+    400212: Component2
+    400214: Component2.001
+    400216: Component2.002
+    400218: Component2.003
+    400220: Component2:1
+    400222: Component2:1.001
+    400224: Component2:1.002
+    400226: Component2:1.003
+    400228: Component3
+    400230: Component3.001
+    400232: Component3.002
+    400234: Component3.003
+    400236: Component3:1
+    400238: Component3:1.001
+    400240: Component3:1.002
+    400242: Component3:1.003
+    400244: COUVERCLE BOTTOM
+    400246: COUVERCLE BOTTOM:1
+    400248: COUVERCLE FRONT
+    400250: COUVERCLE FRONT:1
+    400252: Edge Beacon Left v1
+    400254: Edge Beacon Left v1.001
+    400256: Edge Beacon Left v1.002
+    400258: Edge Beacon Left v1:1
+    400260: Edge Beacon Left v1:2
+    400262: Edge Beacon Left v1:3
+    400264: Edge Beacon Right v1
+    400266: Edge Beacon Right v1.001
+    400268: Edge Beacon Right v1.002
+    400270: Edge Beacon Right v1:1
+    400272: Edge Beacon Right v1:2
+    400274: Edge Beacon Right v1:3
+    400276: EdgeBeacons_Base v1
+    400278: EdgeBeacons_Base v1.001
+    400280: EdgeBeacons_Base v1.002
+    400282: EdgeBeacons_Base v1.003
+    400284: EdgeBeacons_Base v1.004
+    400286: EdgeBeacons_Base v1.005
+    400288: EdgeBeacons_Base v1:1
+    400290: EdgeBeacons_Base v1:1.001
+    400292: EdgeBeacons_Base v1:1.002
+    400294: EdgeBeacons_Base v1:1.003
+    400296: EdgeBeacons_Base v1:1.004
+    400298: EdgeBeacons_Base v1:1.005
+    400300: EdgeBeacons_LargeBorder v1
+    400302: EdgeBeacons_LargeBorder v1.001
+    400304: EdgeBeacons_LargeBorder v1.002
+    400306: EdgeBeacons_LargeBorder v1.003
+    400308: EdgeBeacons_LargeBorder v1.004
+    400310: EdgeBeacons_LargeBorder v1.005
+    400312: EdgeBeacons_LargeBorder v1:1
+    400314: EdgeBeacons_LargeBorder v1:1.001
+    400316: EdgeBeacons_LargeBorder v1:1.002
+    400318: EdgeBeacons_LargeBorder v1:1.003
+    400320: EdgeBeacons_LargeBorder v1:1.004
+    400322: EdgeBeacons_LargeBorder v1:1.005
+    400324: EdgeBeacons_SmallBorder v1
+    400326: EdgeBeacons_SmallBorder v1.001
+    400328: EdgeBeacons_SmallBorder v1.002
+    400330: EdgeBeacons_SmallBorder v1.003
+    400332: EdgeBeacons_SmallBorder v1.004
+    400334: EdgeBeacons_SmallBorder v1.005
+    400336: EdgeBeacons_SmallBorder v1:1
+    400338: EdgeBeacons_SmallBorder v1:1.001
+    400340: EdgeBeacons_SmallBorder v1:1.002
+    400342: EdgeBeacons_SmallBorder v1:1.003
+    400344: EdgeBeacons_SmallBorder v1:1.004
+    400346: EdgeBeacons_SmallBorder v1:1.005
+    400348: ENTRETOISE
+    400350: ENTRETOISE:1
+    400352: FIXATION
+    400354: FIXATION:1
+    400356: FLECHE
+    400358: FLECHE:1
+    400360: Ground v1
+    400362: Ground v1:1
+    400364: INTERIEUR
+    400366: INTERIEUR:1
+    400368: manchonBleu v1
+    400370: manchonBleu v1.001
+    400372: manchonBleu v1:1
+    400374: manchonBleu v1:2
+    400376: manchonJaune v1
+    400378: manchonJaune v1.001
+    400380: manchonJaune v1:1
+    400382: manchonJaune v1:2
+    400384: MiddleBeaconTop v1
+    400386: MiddleBeaconTop v1:1
+    400388: MiddleBeaconVertSupport1 v1
+    400390: MiddleBeaconVertSupport1 v1:1
+    400392: MiddleBeaconVertSupport2 v1
+    400394: MiddleBeaconVertSupport2 v1:1
+    400396: PaintExperience v1
+    400398: PaintExperience v1.001
+    400400: PaintExperience v1:1
+    400402: PaintExperience v1:2
+    400404: Planche Droite
+    400406: Planche Droite.001
+    400408: Planche Droite.002
+    400410: Planche Droite.003
+    400412: Planche Droite:1
+    400414: Planche Droite:1.001
+    400416: Planche Droite:1.002
+    400418: Planche Droite:1.003
+    400420: Planche Fond
+    400422: Planche Fond.001
+    400424: Planche Fond.002
+    400426: Planche Fond.003
+    400428: Planche Fond:1
+    400430: Planche Fond:1.001
+    400432: Planche Fond:1.002
+    400434: Planche Fond:1.003
+    400436: Planche Gauche
+    400438: Planche Gauche.001
+    400440: Planche Gauche.002
+    400442: Planche Gauche.003
+    400444: Planche Gauche:1
+    400446: Planche Gauche:1.001
+    400448: Planche Gauche:1.002
+    400450: Planche Gauche:1.003
+    400452: Planche Socle
+    400454: Planche Socle.001
+    400456: Planche Socle.002
+    400458: Planche Socle.003
+    400460: Planche Socle:1
+    400462: Planche Socle:1.001
+    400464: Planche Socle:1.002
+    400466: Planche Socle:1.003
+    400468: POIDS
+    400470: POIDS:1
+    400472: Rocher v1
+    400474: Rocher v1.001
+    400476: Rocher v1.002
+    400478: Rocher v1.003
+    400480: Rocher v1:1
+    400482: Rocher v1:2
+    400484: Rocher v1:3
+    400486: Rocher v1:4
+    400488: RONDELLES
+    400490: RONDELLES:1
+    400492: ROUE_MINI_V3_ASSEMBLAGE v1
+    400494: ROUE_MINI_V3_ASSEMBLAGE v1:1
+    400496: ROUE_V3 v1
+    400498: ROUE_V3 v1:1
+    400500: STICKER
+    400502: STICKER:1
+    400504: StickerBlue
+    400506: StickerBlue:1
+    400508: StickerYellow
+    400510: StickerYellow:1
+    400512: SUPPORT
+    400514: SUPPORT:1
+    400516: //RootNode
+    400518: Taquet
+    400520: taquet v1
+    400522: taquet v1.001
+    400524: taquet v1:1
+    400526: taquet v1:2
+    400528: Taquet.001
+    400530: Taquet.002
+    400532: Taquet.003
+    400534: Taquet:1
+    400536: Taquet:1.001
+    400538: Taquet:1.002
+    400540: Taquet:1.003
+    400542: TaquetCentre v1
+    400544: TaquetCentre v1:1
+    400546: VIS BOIS
+    400548: VIS BOIS:1
+    400550: ZoneRocheuse v1
+    400552: ZoneRocheuse v1.001
+    400554: ZoneRocheuse v1:1
+    400556: ZoneRocheuse v1:2
+    2100000: 20_Player2
+    2100002: 20_Base
+    2100004: 20_Base.001
+    2100006: Gris 7032
+    2100008: 20_Player1
+    2100010: 20_Base.002
+    2100012: 20_Player1.002
+    2100014: 20_Player2.002
+    2100016: ABS (White)
+    2100018: Plastic - Glossy (Red)
+    2100020: ABS (White) (1)
+    2100022: 20_Player1.001
+    2300000: Body1
+    2300002: Body1.001
+    2300004: Body1.002
+    2300006: Body1.003
+    2300008: Body1.004
+    2300010: Body1.005
+    2300012: Body1.006
+    2300014: Body1.007
+    2300016: Body1.008
+    2300018: Body1.009
+    2300020: Body1.010
+    2300022: Body1.011
+    2300024: Body1.012
+    2300026: Body1.013
+    2300028: Body1.014
+    2300030: Body1.015
+    2300032: Body1.016
+    2300034: Body1.017
+    2300036: Body1.018
+    2300038: Body1.019
+    2300040: Body1.020
+    2300042: Body1.021
+    2300044: Body1.022
+    2300046: Body1.023
+    2300048: Body1.024
+    2300050: Body1.025
+    2300052: Body1.026
+    2300054: Body1.027
+    2300056: Body1.028
+    2300058: Body1.029
+    2300060: Body1.030
+    2300062: Body1.031
+    2300064: Body1.032
+    2300066: Body1.033
+    2300068: Body1.034
+    2300070: Body1.035
+    2300072: Body1.036
+    2300074: Body1.037
+    2300076: Body1.038
+    2300078: Body1.039
+    2300080: Body1.040
+    2300082: Body1.041
+    2300084: Body1.042
+    2300086: Body1.043
+    2300088: Body1.044
+    2300090: Body1.045
+    2300092: Body1.046
+    2300094: Body1.047
+    2300096: Body1.048
+    2300098: Body1.049
+    2300100: Body1.050
+    2300102: Body1.051
+    2300104: Body1.052
+    2300106: Body1.053
+    2300108: Body1.054
+    2300110: Body1.055
+    2300112: Body1.056
+    2300114: Body1.057
+    2300116: Body1.058
+    2300118: Body1.059
+    2300120: Body1.060
+    2300122: Body1.061
+    2300124: Body1.062
+    2300126: Body1.063
+    2300128: Body1.064
+    2300130: Body1.065
+    2300132: Body1.066
+    2300134: Body1.067
+    2300136: Body1.068
+    2300138: Body1.069
+    2300140: Body1.070
+    2300142: Body1.071
+    2300144: Body1.072
+    2300146: Body1.073
+    2300148: Body1.074
+    2300150: Body1.075
+    2300152: Body2
+    2300154: Body2.001
+    2300156: Body2.002
+    2300158: Body2.003
+    2300160: Body3
+    2300162: Body3.001
+    2300164: Body3.002
+    2300166: Body3.003
+    2300168: Body3.004
+    2300170: Body3.005
+    3300000: Body1
+    3300002: Body1.001
+    3300004: Body1.002
+    3300006: Body1.003
+    3300008: Body1.004
+    3300010: Body1.005
+    3300012: Body1.006
+    3300014: Body1.007
+    3300016: Body1.008
+    3300018: Body1.009
+    3300020: Body1.010
+    3300022: Body1.011
+    3300024: Body1.012
+    3300026: Body1.013
+    3300028: Body1.014
+    3300030: Body1.015
+    3300032: Body1.016
+    3300034: Body1.017
+    3300036: Body1.018
+    3300038: Body1.019
+    3300040: Body1.020
+    3300042: Body1.021
+    3300044: Body1.022
+    3300046: Body1.023
+    3300048: Body1.024
+    3300050: Body1.025
+    3300052: Body1.026
+    3300054: Body1.027
+    3300056: Body1.028
+    3300058: Body1.029
+    3300060: Body1.030
+    3300062: Body1.031
+    3300064: Body1.032
+    3300066: Body1.033
+    3300068: Body1.034
+    3300070: Body1.035
+    3300072: Body1.036
+    3300074: Body1.037
+    3300076: Body1.038
+    3300078: Body1.039
+    3300080: Body1.040
+    3300082: Body1.041
+    3300084: Body1.042
+    3300086: Body1.043
+    3300088: Body1.044
+    3300090: Body1.045
+    3300092: Body1.046
+    3300094: Body1.047
+    3300096: Body1.048
+    3300098: Body1.049
+    3300100: Body1.050
+    3300102: Body1.051
+    3300104: Body1.052
+    3300106: Body1.053
+    3300108: Body1.054
+    3300110: Body1.055
+    3300112: Body1.056
+    3300114: Body1.057
+    3300116: Body1.058
+    3300118: Body1.059
+    3300120: Body1.060
+    3300122: Body1.061
+    3300124: Body1.062
+    3300126: Body1.063
+    3300128: Body1.064
+    3300130: Body1.065
+    3300132: Body1.066
+    3300134: Body1.067
+    3300136: Body1.068
+    3300138: Body1.069
+    3300140: Body1.070
+    3300142: Body1.071
+    3300144: Body1.072
+    3300146: Body1.073
+    3300148: Body1.074
+    3300150: Body1.075
+    3300152: Body2
+    3300154: Body2.001
+    3300156: Body2.002
+    3300158: Body2.003
+    3300160: Body3
+    3300162: Body3.001
+    3300164: Body3.002
+    3300166: Body3.003
+    3300168: Body3.004
+    3300170: Body3.005
+    4300000: Body2
+    4300002: Body1
+    4300004: Body1.001
+    4300006: Body1.002
+    4300008: Body1.003
+    4300010: Body1.004
+    4300012: Body1.005
+    4300014: Body1.007
+    4300016: Body1.009
+    4300018: Body1.010
+    4300020: Body1.011
+    4300022: Body1.012
+    4300024: Body1.028
+    4300026: Body1.029
+    4300028: Body1.030
+    4300030: Body1.046
+    4300032: Body1.047
+    4300034: Body1.048
+    4300036: Body3
+    4300038: Body3.001
+    4300040: Body3.004
+    4300042: Body3.005
+    4300044: Body1.052
+    4300046: Body1.054
+    4300048: Body1.055
+    4300050: Body1.056
+    4300052: Body1.057
+    4300054: Body1.058
+    4300056: Body1.059
+    4300058: Body1.060
+    4300060: Body1.061
+    4300062: Body1.062
+    4300064: Body2.002
+    4300066: Body1.063
+    4300068: Body1.064
+    4300070: Body2.003
+    4300072: Body1.065
+    4300074: Body1.066
+    4300076: Body1.067
+    4300078: Body1.068
+    4300080: Body1.069
+    4300082: Body1.070
+    4300084: Body3.002
+    4300086: Body3.003
+    4300088: Body1.074
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
